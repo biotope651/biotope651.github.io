@@ -7,7 +7,7 @@ description: > # Meta description of Homepage
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://janczizikow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://biotope651.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://biotope651.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
