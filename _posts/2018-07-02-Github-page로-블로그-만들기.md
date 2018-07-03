@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "github 포스트 작성"
-featured-img: what-is-github
+featured-img: what-is-github.png
 categories: [practice, post]
 ---
 
